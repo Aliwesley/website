@@ -40,7 +40,6 @@ nav ul li a{
     background-color:#ffffff;
     box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
     padding:20px;
-    background-image: url("../images/office\ work\ image.jpg");
     float:left;
           
 }
@@ -53,6 +52,7 @@ nav ul li a{
     box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
     padding:20px;
     float:right;
+    background-image: url("../images/office\ work\ image.jpg");
         
 }
 .three{
@@ -64,11 +64,11 @@ nav ul li a{
     box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
     padding:20px;
     float:right;
+    background-image: url("../images/office\ work\ image.jpg");
         
 }
-img {
-    width:350px;
-    height:auto;
-    padding:20px;
-}
  
+  img{
+      width:200px;
+      height:auto;
+  }

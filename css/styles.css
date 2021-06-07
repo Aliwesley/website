@@ -14,7 +14,11 @@ nav{
 }
 nav ul{
     display:flex;
+    list-style:none;
 }
 nav ul li a{
     margin:30px;
 }
+ a{
+     text-decoration:none;
+ }

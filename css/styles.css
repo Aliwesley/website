@@ -2,6 +2,7 @@ body{
     background-color:#f6f5f5;
     margin:0px;
     padding:0px;
+    text-align:center;
 }
  
 ul{
@@ -10,19 +11,15 @@ ul{
 a{
     text-decoration:none;
 }
- 
- 
 
 nav{
     display:flex;
     justify-content:space-between;
-    align-items:center;
     height:60px;
     background-color:#FFFFFF;
-    box-shadow:2px 2px 12px rgba(0,0,0,0.2);
+    box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
     padding:0px 5%;
-    
-     
+    text-align:center;
 }
 nav ul{
     display:flex;
@@ -31,7 +28,34 @@ nav ul li a{
     margin:30px;
     font-family:Arial, Helvetica, sans-serif;
     color:#505050;
-    font-size:15px;
+    font-size:24px;
     font-weight:700;
+}
+.one{
+    margin:10px 10px 10px 10px;;
+    border-style:solid;
+    width:28%;
+    height:300px;
+    float:right;
+    background-color:#ffffff;
+    box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
+    padding:20px;
+    background-image: url("../images/office\ work\ image.jpg");
+          
+}
+.two{
+    margin:10px 10px 10px 10px;;
+    border-style:solid;
+    width:30%;
+    height:400px;
+    background-color:#ffffff;
+    box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
+    padding:20px;
+        
+}
+img {
+    width:350px;
+    height:auto;
+    padding:20px;
 }
  

@@ -35,35 +35,35 @@ nav ul li a{
 .one{
     margin:10px 10px 10px 10px;;
     border-style:solid;
-    width:28%;
-    height:300px;
+    width:35%;
+    height:400px;
     background-color:#ffffff;
     box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
     padding:20px;
     background-image: url("../images/office\ work\ image.jpg");
-    float:right;
+    float:left;
           
 }
 .two{
     margin:10px 10px 10px 10px;;
     border-style:solid;
     width:25%;
-    height:400px;
+    height:300px;
     background-color:#ffffff;
     box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
     padding:20px;
-    float:left;
+    float:right;
         
 }
 .three{
     margin:10px 10px 10px 10px;;
     border-style:solid;
     width:25%;
-    height:400px;
+    height:300px;
     background-color:#ffffff;
     box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
     padding:20px;
-    float:left;
+    float:right;
         
 }
 img {

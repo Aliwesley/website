@@ -39,7 +39,7 @@ nav ul li a{
     height:400px;
     background-color:#ffffff;
     box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
-    padding:20px;
+    padding:5px;
     float:left;
           
 }
@@ -67,8 +67,18 @@ nav ul li a{
     background-image: url("../images/office\ work\ image.jpg");
         
 }
+.four{
+    display:flex;
+    justify-content:space-between;
+    height:60px;
+    background-color:#FFFFFF;
+    box-shadow:2px 2px 12px rgba(177, 12, 12, 0.2);
+    padding:0px 5%;
+    text-align:center;
+    clear:both;
+}
  
   img{
-      width:200px;
-      height:auto;
+      width:450px;
+      height:350px;
   }

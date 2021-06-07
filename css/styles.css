@@ -1,8 +1,14 @@
 body{
+     
+    margin:0px;
+    background-color: rgb(223, 127, 2);
+    padding:0px;
+}
+div{
+    width:100%;
     background-image:url("../images/background.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    position:relative;
 }
-div{
-    
-}
+ 

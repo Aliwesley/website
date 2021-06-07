@@ -5,12 +5,16 @@ body{
     padding:0px;
 }
 .div{
-    height:400px;
-    width:500px;
-    border:black;
+    
      
 }
 nav{
     background-color: blanchedalmond;
      
+}
+nav ul{
+    display:flex;
+}
+nav ul li a{
+    margin:30px;
 }

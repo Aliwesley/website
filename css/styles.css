@@ -90,7 +90,22 @@ nav ul li a{
     
   
 }
+.six{
+    display:flex;
+    justify-content:space-between;
+    height:60px;
+    background-color:#FFFFFF;
+    box-shadow:2px 2px 12px rgba(82, 138, 86, 0.2);
+    padding:0px 5%;
+    text-align:center;
+    margin:10px 0px 10px 0px;
+    height:150px;
+
+
+}
+
+
   img{
       width:450px;
       height:350px;
-  }
+}
